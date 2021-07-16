@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arturo-Perevoznyk
 - 👀 I’m interested in music, programming and literature. I studied a degree in Teaching.
 - 🌱 I’m currently learning JS and HTML
-- 💞️ I’m looking to collaborate on some easy proyect to improve my knoledge
+- 💞️ I’m looking to collaborate on some easy proyect to improve my knowledge
 - 📫 How to reach me arturo.ipv@protonmail.com
 
 <!---
